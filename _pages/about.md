@@ -41,13 +41,13 @@ I'm still learning about the CV field, and I'm just open-sourcing some of the pr
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.12* National Scholarship for undergraduates (Top 1%).
-- *2024.08* National third prize in Computer Design Competition (First author).
+- *2024.12* National Scholarship for undergraduates (Top 1%)*.
+- *2024.08* National third prize in Computer Design Competition (First author)*.
 - *2023.12* Tianjin University merit student.
 - *2023.12* Tianjin University merit student.
 
 # 📖 Educations
-- *2025.09 - 2028.06 (Pre-admission), Postgraduate student, School of Computer Science, Peking University, Beijing.
+- *2025.09 - 2028.06 (Pre-admission)*, Postgraduate student, School of Computer Science, Peking University, Beijing.
 - *2021.09 - 2025.06 (now)*, Undergraduate student, College of Intelligence and Computing, Tianjin Universtiy, Tianjin.
 
 # 💬 Invited Talks
