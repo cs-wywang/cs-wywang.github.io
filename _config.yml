@@ -37,6 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  blog             : "https://blog.csdn.net/nhynhy0?spm=1000.2115.3001.5343"
   github           :  "cs-wywang"
   google_plus      :
   keybase          :
@@ -57,7 +58,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  blog             : "https://blog.csdn.net/nhynhy0?spm=1000.2115.3001.5343"
 
 # Reading Files
 include:
