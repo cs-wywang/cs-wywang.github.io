@@ -55,5 +55,5 @@ I'm still learning about the CV field, and I'm just open-sourcing some of the pr
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2024.04 - 2024.07*, [Xiaomi Corporation](https://www.mi.com/global/), China.
 - *2025.01 - 2025.04*, [Chinese Institute for Brain Research, Beijing](https://www.cibr.ac.cn/), China.
+- *2024.04 - 2024.07*, [Xiaomi Corporation](https://www.mi.com/global/), China.
