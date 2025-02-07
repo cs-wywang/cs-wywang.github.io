@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧐 About me
 I’m currently in my fourth year of undergraduate studies at Tianjin University :school:, majoring in Computer Science. I'm supervised by Prof.[Qilong Wang](https://csqlwang.github.io/homepage/) to complete my undergraduate project. Next year, I will start to pursue my master's degree with him.
-My research interest includes Computer Vision (CV) and Architecture Design & Optimization. I’m currently learning compression methods based on the ViT.
-I'm still learning about the CV field, and I'm just open-sourcing some of the project source code I've implemented here. If you have any questions, feel free to discuss with me. :wink:
+My research interest includes **Computer Vision (CV)** and **Architecture Design & Optimization**. I’m currently learning compression methods based on the ViT.
+If you have any questions, feel free to discuss with me. :wink:
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉  I accept the pre-admission of Tianjin University. It’s my honor to study with the guidence of Prof. Qilong Wang.
