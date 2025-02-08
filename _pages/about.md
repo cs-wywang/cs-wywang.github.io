@@ -36,7 +36,7 @@ If you have any questions, feel free to discuss with me. 😉
 - *2023.12* Tianjin University merit student.
 
 # 📖 Educations
-- *2025.09 - 2028.06 (Pre-admission)*, Postgraduate student, School of Computer Science, Peking University, Beijing.
+- *2025.09 - 2028.06 (Pre-admission)*, Postgraduate student, College of Intelligence and Computing, Tianjin Universtiy, Tianjin.
 - *2021.09 - 2025.06 (now)*, Undergraduate student, College of Intelligence and Computing, Tianjin Universtiy, Tianjin.
 
 # 💬 Invited Talks
