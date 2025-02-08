@@ -27,8 +27,6 @@ If you have any questions, feel free to discuss with me. 😉
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-
 - None
 
 # 🎖 Honors and Awards
